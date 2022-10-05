@@ -16,8 +16,7 @@ Domain: Entertainment
 
 Files:
 
-Ratings.dat
-    Format - UserID::MovieID::Rating::Timestamp
+Ratings.dat    Format - UserID::MovieID::Rating::Timestamp
 
 Field	Description
 UserID	Unique identification for each user(range between 1 and 6040 )
